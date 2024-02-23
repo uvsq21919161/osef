@@ -1,0 +1,30 @@
+:root {
+    /*background-image: url('src/assets/Fond.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    place-items: center;*/
+}
+
+.board{
+    margin: 0;
+    height: 100vh;
+    width: 100vh;
+}
+
+.handback_1{
+    /*
+    position: absolute;
+    bottom: 30px;
+    left:40%;
+    */
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    direction: column;
+    align-content: flex-end;
+    /*background-color: red;*/
+}
+.back{
+    margin-right: -50px;
+}

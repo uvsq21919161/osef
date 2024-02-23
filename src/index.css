@@ -1,0 +1,17 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: rgba(255, 255, 255, 0.87);
+  /* Prend comme fond l'image donnée, le size redimensionne l'image pour que l'image couvre toute 
+     la surface de l'écran, tout en conservant les proportions. Et le postion permet de centré le fond par
+     rapport à la fenetre dans le navigateur.*/
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
